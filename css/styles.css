@@ -1,11 +1,90 @@
+html {  
+  background-color: #312e2d;
+}
+
 body {
-  max-width: 320px;
+  max-width: 375px;
   margin: auto;
   background: #232120;
   color: #fff;
+  font-size: 20px;
+  font-family: 'Roboto', sans-serif;
+  padding: 0px 35px;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+h1 {
+  color: #4845eb;
+  font-family: 'Passion One', cursive;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.street {
+  font-size: 110px;
+  margin-bottom: -50px;
+}
+
+.jam {
+  font-size: 200px;
+  margin-bottom: -50px;
+}
+.festival {
+  font-size: 85px;
+}
+
+h2 {
+  font-family: 'Passion One', cursive;
+  font-size: 63px;
+  text-transform: uppercase;
+  color: #4845eb;
+}
+
+.horaire {
+  background-color: #4845eb;
+  text-align: center;
+  padding: 40px 20px;
+  margin: 0 35px;
+  margin-bottom: 45px;
+}
+
+a {
+  color: #fff;
+  background-color: #4845eb;
+  padding: 10px 15px;
+  border-radius: 10px;
+  text-decoration: none;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+  align-items: center;
+}
+
+img {
+  margin-bottom: 45px;
+  margin-top: 45px;
+}
+
+p {
+  margin-bottom: 45px;
+}
+
+.menu {
+  text-align: center;
+  border-style: solid;
+  border-color: #4845eb;
+  border-width: 5px;
+  padding: 40px 30px;
+}
+
+.image {
+  max-width: 30%;
+  display: flex;
+  margin: auto;
+  text-align: center;
 }
