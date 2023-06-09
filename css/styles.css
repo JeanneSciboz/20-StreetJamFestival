@@ -31,6 +31,7 @@ h1 {
 .street {
   font-size: 110px;
   margin-bottom: -50px;
+  padding-top: 50PX;
 }
 
 .jam {
@@ -104,6 +105,5 @@ p {
 footer {
   background-image: url(../img/bg-footer.png);
   max-width: 100%;
- 
   padding: 0px 30px 30px;
 }
